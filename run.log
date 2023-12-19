@@ -1,0 +1,50 @@
+2023-12-19 20:03:32,123 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:32,124 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None
+2023-12-19 20:03:33,192 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:33,192 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None
+2023-12-19 20:03:37,269 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:37,269 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None
+2023-12-19 20:03:38,370 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:38,370 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None
+2023-12-19 20:03:40,132 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:40,132 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950955
+2023-12-19 20:03:41,221 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:41,221 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950955
+2023-12-19 20:03:45,245 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:45,245 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950955
+2023-12-19 20:03:46,291 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:46,291 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950955
+2023-12-19 20:03:48,737 - weather-telegram - DEBUG - {'keyboard': [[{'text': 'Tashkent'}], [{'text': 'Brasov'}], [{'text': 'Share location', 'request_location': True}]], 'one_time_keyboard': True}
+2023-12-19 20:03:49,837 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:49,837 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950956
+2023-12-19 20:03:50,931 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:50,931 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950956
+2023-12-19 20:03:51,512 - weather-telegram - INFO - Weather requested for Tashkent
+2023-12-19 20:03:51,512 - weather-telegram - INFO - Requesting weather: https://api.openweathermap.org/data/2.5/weather?appid=54cfce9e11d0eaad583727ade774a135&units=metric&q=Tashkent
+2023-12-19 20:03:51,512 - weather-telegram - DEBUG - URL: https://api.openweathermap.org/data/2.5/weather?appid=54cfce9e11d0eaad583727ade774a135&units=metric&q=Tashkent
+2023-12-19 20:03:52,162 - weather-telegram - DEBUG - {'coord': {'lon': 69.2163, 'lat': 41.2646}, 'weather': [{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}], 'base': 'stations', 'main': {'temp': 3.97, 'feels_like': 2.1, 'temp_min': 3.97, 'temp_max': 3.97, 'pressure': 1030, 'humidity': 81}, 'visibility': 10000, 'wind': {'speed': 2.06, 'deg': 300}, 'clouds': {'all': 40}, 'dt': 1702997735, 'sys': {'type': 1, 'id': 9016, 'country': 'UZ', 'sunrise': 1702953842, 'sunset': 1702986952}, 'timezone': 18000, 'id': 1512569, 'name': 'Tashkent', 'cod': 200}
+2023-12-19 20:03:53,376 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:53,376 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950957
+2023-12-19 20:03:54,441 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:54,441 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950957
+2023-12-19 20:03:58,754 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:58,754 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950957
+2023-12-19 20:03:59,795 - weather-telegram - INFO - Getting updates
+2023-12-19 20:03:59,795 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950957
+2023-12-19 20:06:48,565 - weather-telegram - INFO - Getting updates
+2023-12-19 20:06:48,565 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950957
+2023-12-19 20:06:49,608 - weather-telegram - INFO - Getting updates
+2023-12-19 20:06:49,608 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950957
+2023-12-19 20:06:51,265 - weather-telegram - INFO - Getting updates
+2023-12-19 20:06:51,265 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950958
+2023-12-19 20:06:52,314 - weather-telegram - INFO - Getting updates
+2023-12-19 20:06:52,314 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950958
+2023-12-19 20:06:56,376 - weather-telegram - INFO - Getting updates
+2023-12-19 20:06:56,376 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950958
+2023-12-19 20:06:57,414 - weather-telegram - INFO - Getting updates
+2023-12-19 20:06:57,414 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950958
+2023-12-19 20:07:01,472 - weather-telegram - INFO - Getting updates
+2023-12-19 20:07:01,472 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950958
+2023-12-19 20:07:02,507 - weather-telegram - INFO - Getting updates
+2023-12-19 20:07:02,507 - weather-telegram - DEBUG - URL: https://api.telegram.org/bot6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww/getUpdates?timeout=None&offset=532950958
+2023-12-19 20:07:02,859 - weather-telegram - INFO - SIGINT received. Exiting... Bye bye
