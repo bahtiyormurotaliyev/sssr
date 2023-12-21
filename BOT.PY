@@ -9,11 +9,16 @@ import sys
 TOKEN = "6930083046:AAGRG-k7Bcd0dNiHlnfcA7593FL1fCnX_Ww"
 OWM_KEY = "54cfce9e11d0eaad583727ade774a135"
 POLLING_TIMEOUT = None
-def getText(update):            return update["message"]["text"]
-def getLocation(update):        return update["message"]["location"]
-def getChatId(update):          return update["message"]["chat"]["id"]
-def getUpId(update):            return int(update["update_id"])
-def getResult(updates):         return updates["result"]
+def getText(update):            
+    return update["message"]["text"]
+def getLocation(update):        
+    return update["message"]["location"]
+def getChatId(update):          
+    return update["message"]["chat"]["id"]
+def getUpId(update):            
+    return int(update["update_id"])
+def getResult(updates):         
+    return updates["result"]
 
 # # Lambda functions to parse weather responses
 def getDesc(w):                 return w["weather"][0]["description"]
@@ -22,8 +27,8 @@ def getCity(w):                 return w["name"]
 logger = logging.getLogger("weather-telegram")
 logger.setLevel(logging.DEBUG)
 
-# Cities for weather requests
-cities = ["Tashkent", "Brasov"]
+# Cities for weather request
+cities = ["Tashkent"]
 def sigHandler(signal, frame):
     logger.info("SIGINT received. Exiting... Bye bye")
     sys.exit(0)
